@@ -1,1 +1,3 @@
-# react-redux-master
+# react-redux
+
+App using react-redux example.
